@@ -1,0 +1,38 @@
+ul.main-menu li {
+    color: black;
+    font-family: Montserrat Light;
+    display: inline;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height: 18px;
+}
+ul.main-menu {
+    font-size: 14px;
+    text-align: center;
+}
+ul.main-menu li {
+    display: inline;
+}
+a {
+    padding: 18px;
+}
+a:hover {
+    background: green;
+    color: green;
+}
+a:link {
+    color: black;
+}
+a:hover {
+    background: white;
+    color: #B5E61D;
+}
+
+.cap {
+    width: 1184px;
+    height: 68px;
+}
+
+.fa-phone {
+    float: right;
+}
