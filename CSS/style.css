@@ -36,3 +36,10 @@ a:hover {
 .fa-phone {
     float: right;
 }
+
+input {
+    width: 50%;
+}
+.form-action {
+    width: 50%;
+}
